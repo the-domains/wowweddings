@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[wowweddings]]></title>
+        <description><![CDATA[wowweddings]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 04 Feb 2016 18:27:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[test]]></title>
+            <description><![CDATA[<article><h1>test</h1><p>Creative documentary wedding photography in Ireland by David Duignan.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7fd59a12b2deeed6ee02934ab42dc46ddf6b999.jpg"></article>]]></description>
+            <link>undefinedtest/index.html</link>
+            <guid isPermaLink="false">bbefd5b2-ab7f-4657-826b-06e6f98e7188</guid>
+            <pubDate>Thu, 04 Feb 2016 18:27:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
